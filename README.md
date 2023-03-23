@@ -42,5 +42,11 @@
 Может оставить пост в собственном профиле, данные об этом заносятся в таблицу “Пользовательская активность”.
 
     
-<h1 style="color: blue">Инфологическая модель</h1>
-![image](https://user-images.githubusercontent.com/70958074/227369770-f1b79d4a-9a33-4ca5-ab6b-d5231a788d09.png)
+<h1 style="color: blue">Инфологическая модель</h1>  
+
+![image](https://user-images.githubusercontent.com/70958074/227369889-42a37c32-a20b-4f26-969d-20287bd73a95.png)
+
+<h1 style="color: blue">Даталогическая модель</h1>  
+
+![image](https://user-images.githubusercontent.com/70958074/227369985-27171395-d42c-45c5-8aac-7115d32e5d94.png)
+
